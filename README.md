@@ -15,6 +15,8 @@
 
 - [🔗 Documentação XML](https://www.w3schools.com/xml/xml_whatis.asp)
 
+- [🔗 Documentação JSON](https://www.devmedia.com.br/o-que-e-json/23166)
+
 ## 🛠 Cursos
 
 - OWASP Top 10: de Injections a Broken Access Control
