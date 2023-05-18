@@ -8,7 +8,12 @@
 
 - [🔗 Documentação HQL](https://www.devmedia.com.br/hibernate-query-language-do-inicio-ao-fim/31156/)
 
-- [🔗 Site GraphQL](https://www.devmedia.com.br/hibernate-query-language-do-inicio-ao-fim/31156/)https://graphql.org
+- [🔗 Site GraphQL](https://graphql.org)
+
+
+- [🔗 Documentação HTTP](https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Overview)
+
+- [🔗 Documentação XML](https://www.w3schools.com/xml/xml_whatis.asp)
 
 ## 🛠 Cursos
 
@@ -25,4 +30,3 @@
 ## 💙 Contato
 
 ebeatrizkcs@gmail.com
-
